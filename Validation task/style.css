@@ -1,0 +1,16 @@
+body{
+    padding-top: 100px;
+}
+label {
+    width: 100px;
+}
+input {
+    border : 1px solid #ccc;
+}
+.content {
+    padding: 15px;
+    border: 1px solid #ccc;
+}
+p{
+    color: red;
+}

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OSS Form</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/css/bootstrap.css"/>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="content" id="content">
+                <form onsubmit="return myForm(this)" id="testForm">
+                    <div>
+                        <label for="firstName">First name</label>
+                        <input name="firstName" type="text" id="firstName"/>
+                        <p id="firstNameErr"></p>
+                    </div>
+
+                    <div>
+                        <label for="lastName">Last name</label>
+                        <input name="lastName" type="text" id="lastName"/>
+                        <p id="lastNameErr"></p>
+                    </div>
+
+                    <div>
+                        <label for="email">Email</label>
+                        <input name="email" type="text" id="email"/>
+                        <p id="emailErr"></p>
+                    </div>
+                    <input type="submit" name="Send" value="Send">
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
