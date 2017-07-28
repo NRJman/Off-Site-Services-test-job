@@ -8,7 +8,7 @@ This is a test job for one of companies. I liked it and it was interesting for m
 
 ## Running
 
-Follow [this one](https://cdn.rawgit.com/NRJman/Off-Site-Services-test-job/bdea0759/Layout%20task/index.html) to run the layout task and [this one](https://cdn.rawgit.com/NRJman/Off-Site-Services-test-job/bdea0759/Validation%20task/index.html) to run the validation task.
+Follow [this one](https://cdn.rawgit.com/NRJman/Off-Site-Services-test-job/84ec1065/Layout%20task/index.html) to run the layout task and [this one](https://cdn.rawgit.com/NRJman/Off-Site-Services-test-job/bdea0759/Validation%20task/index.html) to run the validation task.
 ## License
 
 There is no any license for it. You can use any data from this repo, if you like :)
