@@ -68,7 +68,18 @@ body{
 		}
 		input,input::-webkit-input-placeholder {
 		    font-size: 19px;
-		    line-height: 3;
+		    font-style: italic;
+		}
+		input,input::-moz-placeholder{
+			font-size: 19px;
+		    font-style: italic;
+		}
+		input,input:-ms-input-placeholder{
+			font-size: 19px;
+		    font-style: italic;
+		}
+		input,input::placeholder{
+			font-size: 19px;
 		    font-style: italic;
 		}
 		.search{

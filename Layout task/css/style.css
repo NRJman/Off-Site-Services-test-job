@@ -55,7 +55,15 @@ body {
     border: 1px solid #efefef; }
   body input, body input::-webkit-input-placeholder {
     font-size: 19px;
-    line-height: 3;
+    font-style: italic; }
+  body input, body input::-moz-placeholder {
+    font-size: 19px;
+    font-style: italic; }
+  body input, body input:-ms-input-placeholder {
+    font-size: 19px;
+    font-style: italic; }
+  body input, body input::placeholder {
+    font-size: 19px;
     font-style: italic; }
   body .search {
     background-image: url("../img/search.png");
