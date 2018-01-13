@@ -1,6 +1,6 @@
 ## Synopsis
 
-This is an "Off-Site Services test job" repository. There are two completed tasks here. The first one is a layout task. I had a page layout and I needed to write the same one on HTML/CSS/JS. The second one is a form validation task. I needed to write a validation for the form I had.
+This is an "Off-Site Services test job" repository. There are two completed tasks here. The first one is a layout task. I had a page mockup and I needed to make the same one on HTML/CSS/JS. The second one is a form validation task. I needed to write a validation for the form I had.
 
 ## Motivation
 
